@@ -1,0 +1,17 @@
+[33mcommit 16da0a15a1dc91d9d9b7180234bf0f87c816fac6[m[33m ([m[1;36mHEAD -> [m[1;32mdevelop[m[33m)[m
+Author: Gabriel Miranda <vytorgabriel123v@gmail.com>
+Date:   Mon Jan 25 10:57:09 2021 -0300
+
+    Erro de escrita resolvido
+
+[33mcommit 4565036d84c5258115909d381a7508efeee7b87e[m
+Author: Gabriel Miranda <vytorgabriel123v@gmail.com>
+Date:   Mon Jan 25 10:49:15 2021 -0300
+
+    test
+
+[33mcommit fde9c602979e19e96f487e3c936141c7a23477f6[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: Gabriel Miranda <vytorgabriel123v@gmail.com>
+Date:   Fri Jan 22 18:29:38 2021 -0300
+
+    Configuração do ambiente e rotas criadas
