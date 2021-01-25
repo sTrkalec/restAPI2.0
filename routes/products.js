@@ -32,11 +32,6 @@ router.get("/:id_produto", (req, res, next) => {
 
 });
 
-router.patch("/", (req, res, next) => {
-    res.status(200).send({
-        mensagem: "Produto alterado"
-    });
-});
 
 router.delete("/", (req, res, next) => {
     res.status(200).send({
@@ -45,5 +40,3 @@ router.delete("/", (req, res, next) => {
 });
 
 
-
-module.exports = router;
