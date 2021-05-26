@@ -69,7 +69,7 @@ router.patch("/", (req, res, next) => {
         if (error) { return res.status(500).send({error : error}) };
         conn.query(
             "UPDATE produtos SET nome = ?, preco = ? WHERE id_produto = ?",
-            [req.body.nome, req.body.preco, req.body.id_produtos],
+            [req.body.nome, req.body.preco, req.body.id_produto],
             (error, resultado, field) => {
                 conn.release();
                 if (error) { return res.status(500).send({error : error}) };
